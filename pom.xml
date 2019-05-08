@@ -57,7 +57,7 @@
         <log4j.version>2.11.1</log4j.version>
         <!-- For the Elasticsearch plugin to work this should match the version of Lucene that Elasticsearch
       uses. -->
-        <lucene.version>7.5.0</lucene.version>
+        <lucene.version>7.6.0</lucene.version>
         <randomizedtesting.version>2.7.0</randomizedtesting.version>
     </properties>
 
